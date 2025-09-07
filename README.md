@@ -1,4 +1,7 @@
-#HACKATHON - WORCAP - 2025
+# HACKATHON - WORCAP - 2025
+
+
+![](https://github.com/IzadoraSC/hackathon_workcap_2025/blob/main/hackathon_2025.png)
 
 ---
 Team: GT-BR
