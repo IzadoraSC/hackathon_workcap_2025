@@ -12,4 +12,4 @@ Captain: Alejandro Lopez
 
 Project Repository: [GitHub](https://github.com/IzadoraSC/hackathon_workcap_2025)
 
-Kaggle: [Hackaton WorCap 2025](https://www.kaggle.com/competitions/worcap-2025)
+Kaggle (Dataset): [Hackaton WorCap 2025](https://www.kaggle.com/competitions/worcap-2025)
