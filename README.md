@@ -8,7 +8,7 @@ Team: GT-BR
 
 Members: Alejandro Lopez, Izadora S. de Carvalho, Joaquim AJR
 
-Captain: Alejandro Lopez
+Team Leader: Alejandro Lopez
 
 Project Repository: [GitHub](https://github.com/IzadoraSC/hackathon_workcap_2025)
 
