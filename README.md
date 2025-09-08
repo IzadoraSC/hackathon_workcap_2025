@@ -6,7 +6,7 @@
 ---
 Team: GT-BR
 
-Members: Alejandro Lopez, Izadora S. de Carvalho, Joaquim AJR
+Team Members: Alejandro Lopez, Izadora S. de Carvalho, Joaquim AJR
 
 Team Leader: Alejandro Lopez
 
