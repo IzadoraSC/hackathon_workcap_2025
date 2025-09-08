@@ -16,7 +16,7 @@ Kaggle (Dataset): [Hackaton WorCap 2025](https://www.kaggle.com/competitions/wor
 
 ---
 
-## RESULTADOS:
+## RESULTS:
 ![](https://github.com/IzadoraSC/hackathon_workcap_2025/blob/main/img/image1.jpg)
 
 ![](https://github.com/IzadoraSC/hackathon_workcap_2025/blob/main/img/image2.jpg)
